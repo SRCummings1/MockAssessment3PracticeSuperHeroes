@@ -6,5 +6,6 @@ namespace MockAssessment3SuperDuperHeroes
 {
     class Villain
     {
+        GetShrecked()
     }
 }
